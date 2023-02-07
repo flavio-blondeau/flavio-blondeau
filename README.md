@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @flavio-blondeau
-- 👀 I’m interested in Math and CS, in particular Machine Learning and Data Science/Data Analysis
+- 👋 Hi, I’m @flavio-blondeau, PhD in Maths (Algebraic Geometry)
+- 👀 I’m interested in Math and CS, in particular Machine/Deep Learning and Data Science/Data Analysis
 - 🌱 I’m currently learning Data Science and Machine Learning in Python, and also a bit of SQL and Tableau
 
 <!---
