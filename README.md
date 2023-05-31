@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flavio-blondeau, PhD in Maths (Algebraic Geometry)
 - 👀 Interested in Maths and Computer Science, in particular Machine/Deep Learning and Data Science/Data Analysis
-- 🌱 Currently learning Data Science and Machine Learning in Python and R, and also a bit of SQL and Tableau
+- 🌱 Currently learning Data Science and Machine Learning in Python and R, and a bit of programming in JavaScript
 - 👀 Check also my Kaggle profile (https://www.kaggle.com/flavioblondeau)
 
 <!---
